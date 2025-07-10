@@ -10,6 +10,7 @@ namespace MyApplication
             Console.WriteLine($"{name} {family}");
             Console.WriteLine(Number.MyNumber(5));
             Car.MyCar();
+            Condition.MyCondition();
         }
     }
 }
