@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+namespace MyApplication
+{
+    class App
+    {
+        static void Main(string[] args)
+        {
+            string name = "Azadeh";
+            string family = "Sahrifi Soltani";
+            Console.WriteLine($"{name} {family}");
+        }
+    }
+}
