@@ -16,6 +16,6 @@ namespace MyApplication
             Person person = new Person();
             person.Name = "Arezou";
             Console.WriteLine(person.Name);
-                }
+        }
     }
 }
