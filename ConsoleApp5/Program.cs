@@ -11,6 +11,7 @@ namespace MyApplication
             Console.WriteLine(Number.MyNumber(5));
             Car.MyCar();
             Condition.MyCondition();
+            Sort.MySort();
         }
     }
 }
