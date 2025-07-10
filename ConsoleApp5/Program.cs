@@ -8,6 +8,7 @@ namespace MyApplication
             string name = "Azadeh";
             string family = "Sahrifi Soltani";
             Console.WriteLine($"{name} {family}");
+            Console.WriteLine(Number.MyNumber(5));
         }
     }
 }
