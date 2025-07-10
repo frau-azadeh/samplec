@@ -12,6 +12,11 @@ namespace MyApplication
             Car.MyCar();
             Condition.MyCondition();
             Sort.MySort();
+            Color.MyColor();
+            Person person = new Person();
+            person.Name = "Arezou";
+            Console.WriteLine(person.Name);
+            Program.MyProgram();
         }
     }
 }
