@@ -12,6 +12,7 @@ namespace MyApplication
             Car.MyCar();
             Condition.MyCondition();
             Sort.MySort();
+            Color.MyColor();
         }
     }
 }
